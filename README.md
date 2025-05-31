@@ -23,6 +23,7 @@ Technically, the system leverages LangGraph to orchestrate the multi-step agent 
 🗂️ Project Structure
 Plaintext
 
+```
 stock-research-agent/
 ├── src/
 │   ├── core/
@@ -41,6 +42,7 @@ stock-research-agent/
 ├── requirements.txt            # Python dependencies
 ├── .env.example                # Environment variables template
 └── README.md                   # Project documentation
+```
 
 🛠️ Agent Features
 Dynamic Query Routing: Intelligently distinguishes between conversational queries and deep research questions.
