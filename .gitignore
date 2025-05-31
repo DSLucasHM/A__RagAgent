@@ -1,0 +1,32 @@
+# --- Secrets ---
+# Ignore environment variables and secrets.
+.env
+
+# --- Python Virtual Environments ---
+# Standard names for virtual environments.
+venv/
+env/
+
+# --- Python Cache & Compiled Files ---
+# Ignore Python cache files, compiled files, and type checker caches.
+__pycache__/
+*.py[cod]
+*$py.class
+.mypy_cache/
+.pytest_cache/
+
+# --- Editor-Specific ---
+# Cursor editor server files.
+.cursor-server/
+# VS Code editor settings (Cursor is a fork of VS Code).
+.vscode/
+# Local file history sometimes created by editor extensions.
+.history/
+
+# --- Logs ---
+# Ignore all log files.
+*.log
+
+# --- Operating System Files ---
+# macOS specific files.
+.DS_Store

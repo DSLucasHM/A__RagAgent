@@ -1,0 +1,15 @@
+bert_score
+cachetools
+fitz
+langchain-community
+langchain-core
+langchain-groq
+langchain-openai
+langgraph
+pydantic
+PyMuPDF
+python-dotenv
+rank-bm25
+sentence-transformers
+flask 
+beautifulsoup4
